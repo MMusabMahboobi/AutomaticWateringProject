@@ -1,4 +1,4 @@
-###The Experiment
+### The Experiment
 I will be comparing the amount of water used by an automatic watering system that waters a plant whenever the soil moisture falls below a certain threshold vs manual watering at a set time every day.
 
 Independent Variable: Watering method; fixed-time manual watering vs. dryness-triggered automatic watering
